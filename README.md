@@ -67,8 +67,13 @@ Run `python Raw_Lyrics.py`, start the song yourself, and press SPACE the moment 
 begins (U undoes the last stamp, ESC finishes). Paste the printed `RAW_LYRICS` block into
 `main2.py`. `Raw_Lyrics.py` and `main.py` use relative paths, so run them from inside this folder.
 
-## Copyright
+## License
 
-The song and its lyrics belong to their owners (The 1975 and their publishers). They are
-included here as part of a fan project for personal and educational use only. The code is
-free to reuse, but no license file has been chosen yet.
+The code is released under the [MIT License](LICENSE).
+
+The MIT License covers the code only. It does **not** cover:
+
+- The song and its lyrics, which belong to their owners (The 1975 and their publishers).
+  They are included as part of a fan project for personal and educational use only.
+- The rendered video in `output/`, which contains the song and lyrics.
+- The Press Start 2P font, which has its own license (SIL Open Font License).
